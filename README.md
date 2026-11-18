@@ -1,4 +1,4 @@
-                 E-Commerce Sales Analysis Dashboard
+      📊 E-Commerce Sales Analysis Dashboard
 
 
 ![alt text](image.png)
