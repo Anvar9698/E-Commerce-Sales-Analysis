@@ -1,6 +1,8 @@
-E-Commerce Sales Analysis Dashboard
+                 E-Commerce Sales Analysis Dashboard
+
 
 ![alt text](image.png)
+
 
 Overview
 This project analyzes a real-world e-commerce sales dataset containing over 500,000 transactions. The objective was to identify key sales trends, top-performing products, customer purchasing behavior, and regional sales performance using Microsoft Excel.
